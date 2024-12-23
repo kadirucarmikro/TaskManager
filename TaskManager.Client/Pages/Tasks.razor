@@ -1,0 +1,30 @@
+﻿@page "/tasks"
+@inject HttpClient Http
+
+<h3>Görevler</h3>
+
+<ul>
+    @foreach (var task in tasks)
+    {
+        <li>@task.Title - @task.Description</li>
+    }
+</ul>
+
+<button @onclick="LoadTasks">Görevleri Yükle</button>
+
+@code {
+    private List<Task> tasks = new List<Task>();
+
+    private async Task LoadTasks()
+    {
+        tasks = await Http.GetFromJsonAsync<List<Task>>("https://localhost:5001/api/tasks");
+    }
+
+    public class Task
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public bool IsCompleted { get; set; }
+    }
+}

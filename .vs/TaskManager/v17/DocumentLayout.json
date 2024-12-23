@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3081FCE-0EA6-4E99-9623-E5C19BC224E3}|Solution Items{F3081FCE-0EA6-4E99-9623-E5C19BC224E3}|C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\READ.me||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3081FCE-0EA6-4E99-9623-E5C19BC224E3}|Solution Items{F3081FCE-0EA6-4E99-9623-E5C19BC224E3}|solutionrelative:READ.me||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6212F2ED-DECC-4870-8FC9-232166B182C3}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.tests\\unittests\\taskscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6212F2ED-DECC-4870-8FC9-232166B182C3}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\unittests\\taskscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6212F2ED-DECC-4870-8FC9-232166B182C3}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.tests\\taskmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6212F2ED-DECC-4870-8FC9-232166B182C3}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\taskmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD832C3-57BA-4F50-B9A1-005D0D31D70B}|TaskManager.Client\\TaskManager.Client.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BD832C3-57BA-4F50-B9A1-005D0D31D70B}|TaskManager.Client\\TaskManager.Client.csproj|solutionrelative:taskmanager.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD832C3-57BA-4F50-B9A1-005D0D31D70B}|TaskManager.Client\\TaskManager.Client.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.client\\pages\\tasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BD832C3-57BA-4F50-B9A1-005D0D31D70B}|TaskManager.Client\\TaskManager.Client.csproj|solutionrelative:taskmanager.client\\pages\\tasks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.api\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.api\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3851D9-0A5E-41B5-8D56-48D072DE943E}|TaskManager.Api\\TaskManager.Api.csproj|solutionrelative:taskmanager.api\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6212F2ED-DECC-4870-8FC9-232166B182C3}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\users\\kadir.ucar\\source\\repos\\taskmanager\\taskmanager.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6212F2ED-DECC-4870-8FC9-232166B182C3}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "READ.me",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\READ.me",
+              "RelativeDocumentMoniker": "READ.me",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\READ.me",
+              "RelativeToolTip": "READ.me",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-23T10:40:42.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Tests\\UnitTests\\TasksControllerTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\UnitTests\\TasksControllerTests.cs",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Tests\\UnitTests\\TasksControllerTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\UnitTests\\TasksControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAzszMzMwTwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:38:40.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskManager.Tests",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Tests\\TaskManager.Tests.csproj",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\TaskManager.Tests.csproj",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Tests\\TaskManager.Tests.csproj",
+              "RelativeToolTip": "TaskManager.Tests\\TaskManager.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T10:37:31.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "TaskManager.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "TaskManager.Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T10:37:16.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tasks.razor",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Client\\Pages\\Tasks.razor",
+              "RelativeDocumentMoniker": "TaskManager.Client\\Pages\\Tasks.razor",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Client\\Pages\\Tasks.razor",
+              "RelativeToolTip": "TaskManager.Client\\Pages\\Tasks.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T10:35:30.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Program.cs",
+              "RelativeToolTip": "TaskManager.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:32:59.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManager.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\appsettings.json",
+              "RelativeToolTip": "TaskManager.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T10:32:43.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManager.Api\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:31:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Data\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Data\\TaskContext.cs",
+              "RelativeToolTip": "TaskManager.Api\\Data\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:31:01.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManager.Api\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Api\\Models\\Task.cs",
+              "RelativeToolTip": "TaskManager.Api\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:28:06.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\kadir.ucar\\source\\repos\\TaskManager\\TaskManager.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TaskManager.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:27:15.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
