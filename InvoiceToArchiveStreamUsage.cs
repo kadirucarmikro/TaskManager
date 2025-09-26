@@ -130,25 +130,55 @@ public class InvoiceToArchiveStreamUsage
     }
     
     /// <summary>
-    /// Örnek 5: Mevcut kodunuzu güncelleme
+    /// Örnek 5: Mevcut kodunuzu güncelleme (Example4'e göre güncellenmiş)
     /// </summary>
     public void Example5_UpdateYourCode()
     {
         // Mevcut kodunuz:
         // invoice.Data = InvoiceToArchive(invoiceType, version);
         
-        // Güncellenmiş kod:
+        // Güncellenmiş kod (Example4_CompleteImplementation'e göre):
         byte[] invoiceData = null;
         
         try
         {
-            // Önce optimize edilmiş methodu dene
-            invoiceData = InvoiceToArchiveOptimized(invoiceType, version);
+            // Önce normal methodu dene (5MB limit ile)
+            invoiceData = InvoiceToArchiveOptimized(invoiceType, version, 5 * 1024 * 1024);
+            
+            if (invoiceData == null)
+            {
+                // Invoice çok büyükse, stream-based approach kullan
+                invoiceData = CreateInvoiceArchiveWithStream(invoiceType, version);
+            }
+            
+            if (invoiceData == null)
+            {
+                // Hala null ise, direkt file'a yaz
+                string tempFilePath = Path.GetTempFileName();
+                try
+                {
+                    using (var fileStream = new FileStream(tempFilePath, FileMode.Create, FileAccess.Write))
+                    {
+                        InvoiceArchiveOptimized.InvoiceToArchiveStream(invoiceType, version, fileStream);
+                    }
+                    
+                    invoiceData = File.ReadAllBytes(tempFilePath);
+                }
+                finally
+                {
+                    try { File.Delete(tempFilePath); } catch { }
+                }
+            }
         }
         catch (OutOfMemoryException)
         {
             // Memory yetersizse, stream-based approach kullan
             invoiceData = CreateInvoiceArchiveWithStream(invoiceType, version);
+        }
+        finally
+        {
+            // Memory temizle
+            GC.Collect();
         }
         
         if (invoiceData == null)
